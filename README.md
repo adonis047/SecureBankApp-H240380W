@@ -4,8 +4,8 @@ A console-based Java application that simulates a secure banking system. This pr
 
 ## Student Details
 
-- **Name:** [KUDAKWASHE A MUKANDI]
-- **Registration Number:** [H240004A]
+- **Name:** [ADONIS MUKWARA]
+- **Registration Number:** [H240380W]
 
 ## Features
 
